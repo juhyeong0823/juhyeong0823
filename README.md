@@ -1,6 +1,6 @@
-### Hi there 👋
-
-#i'm kimjuhyeong
+This is my page.
+==============
+I'm juhyeong.
 
 
 <!--
