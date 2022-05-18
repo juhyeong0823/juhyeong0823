@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **juhyeong0823@gmail.com**
 
-- ⚡ **I love web novels and games, and I'm good at games.**
+- ⚡ **I love lol! Would you like to play with me?**
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
