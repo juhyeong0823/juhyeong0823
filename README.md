@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20%20%20&height=200&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20JuhyeongKim%20%20&height=200&fontSize=100)
 <h3 align="center">I am a client programmer.</h3>
 
 - 🔭 I’m currently working on **Gyeonggi-Game-Meister HighSchool**
