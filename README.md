@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **juhyeong0823@gmail.com**
 
-- ⚡ **I love lol! Would you like to play with me?**
+- ⚡ **I love ! Would you like to play with me?**
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
