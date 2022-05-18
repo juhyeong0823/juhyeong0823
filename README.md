@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![juhyeong0823's github stats](https://github-readme-stats.vercel.app/api?username=juhyeong0823&show_icons=true)
+<img src="https://img.shields.io/badge/Unity-3766AB?style=flat-square&logo=Unity&logoColor=white%22/%3E</a>&nbsp
