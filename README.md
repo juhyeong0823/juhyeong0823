@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Juhyeong Kim</h1>
 <h3 align="center">I am a client programmer.</h3>
 
-- 🔭 I’m currently working on **Gyeonggi-Game-Meister HighSchool**
+<h3 align="center">- 🔭 I’m currently working on **Gyeonggi-Game-Meister HighSchool**</h3>
 
-- 🌱 I’m currently learning **C++, C#, PHP, MySql, Unity**
+<h3 align="center">- 🌱 I’m currently learning **C++, C#, PHP, MySql, Unity**</h3>
 
-- 📫 How to reach me **juhyeong0823@gmail.com**
+<h3 align="center">- 📫 How to reach me **juhyeong0823@gmail.com**</h3>
+
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
