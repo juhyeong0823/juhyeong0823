@@ -1,15 +1,17 @@
-### Hi! I'm Juhyeong Kim.
+<h1 align="center">Hi 👋, I'm Juhyeong Kim</h1>
+<h3 align="center">I am a client programmer.</h3>
 
-                                                                I am a client programmer
-                                                                
+- 🔭 I’m currently working on **Gyeonggi-Game-Meister HighSchool**
 
-<img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=black"> <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=C Sharp&logoColor=black">  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=black">  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=black">
+- 🌱 I’m currently learning **C++, C#, PHP, MySql, Unity**
 
+- 📫 How to reach me **juhyeong0823@gmail.com**
 
-* 🏫 I’m currently working on Gyeonggi-Game-Meister HighSchool
+- ⚡ **My first game is Tales Runner**
 
-* 🌱 I’m currently learning C++, C#, PHP, MySql, Unity
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-* 📫 How to reach me juhyeong0823@gmail.com
-
-* ⚡ My first game is  Tales Runner
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
