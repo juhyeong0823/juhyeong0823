@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **juhyeong0823@gmail.com**
 
-- ⚡ **My first game is Tales Runner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
