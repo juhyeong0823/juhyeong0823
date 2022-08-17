@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Gyeonggi-Game-Meister HighSchool**
 
-- 🌱 I’m currently learning **C++, C#, PHP, MySql, Unity**
+- 🌱 I’m currently learning **C++, C#, Unity**
 
 - 📫 How to reach me **juhyeong0823@gmail.com**
 
